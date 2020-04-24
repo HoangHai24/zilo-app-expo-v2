@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "ZiloApp",
+    "slug": "ZiloApp",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kynguyenso.zilo",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1,
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyBuEexX0am1rpJUFs8DCIbDcsi0AtkLN_k",
+          "certificateHash": "5BE551DC8A4E5D2BBD9E68DB7B0A859A503C5EF6"
+        }
+      }
+    }
+  }
+}

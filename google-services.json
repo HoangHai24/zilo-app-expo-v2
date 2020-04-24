@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492031149662",
+    "firebase_url": "https://zilosecond.firebaseio.com",
+    "project_id": "zilosecond",
+    "storage_bucket": "zilosecond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492031149662:android:92ac694df1ae115f4dd6cf",
+        "android_client_info": {
+          "package_name": "com.kynguyenso.zilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492031149662-t9dbrr871bpi5bcfcf4s49a4hib7nh9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEexX0am1rpJUFs8DCIbDcsi0AtkLN_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492031149662-t9dbrr871bpi5bcfcf4s49a4hib7nh9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

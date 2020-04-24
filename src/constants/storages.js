@@ -1,0 +1,1 @@
+export const AUTH_STORAGE = 'AUTH_STORAGE_V1';
