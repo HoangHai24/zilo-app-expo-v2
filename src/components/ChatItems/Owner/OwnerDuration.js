@@ -13,6 +13,7 @@ const OwnerDuration = (props) => {
             const clock = setInterval(() => {
                 const dTime = chatDuration(time);
                 setData(dTime)
+
             }, 30000);
             return () => {
                 clearInterval(clock)

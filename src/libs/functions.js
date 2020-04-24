@@ -65,7 +65,7 @@ export const chatDuration = (time, type = 0) => {
     if (d < 60) {
         return {
             type: 1,
-            text: type === 0 ? "Vừa gửi" : "Vừa nhận"
+            text: (type === 0 ? "Vừa gửi" : "Vừa nhận") + d
         }
     }
     if (d < 3600) {
